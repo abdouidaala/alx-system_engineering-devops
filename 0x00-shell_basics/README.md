@@ -7,3 +7,4 @@ task[5] => a command that displays the current directory contents in a long form
 task[6] => a script that creates a directory in the /tmp/ directory
 task[7] => a command to move a file into a directory
 task[8] => a command to delete betty file
+task[9] => a command that delete a directory
