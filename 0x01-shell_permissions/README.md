@@ -12,3 +12,4 @@ task[10] => a script that sets the mode of the file 'hello' the same as 'olleh''
 task[11] => a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 task[12] => a script that creates a directory with permissions 751
 task[13] => a script that changes the group owner of a file
+task[14] => a script that change the owner and the group of a file
