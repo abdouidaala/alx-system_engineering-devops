@@ -11,3 +11,4 @@ task[9] => a command that delete a directory
 task[10] => a script that changes the working directory to the previous one
 task[11] => a script that lists all files in the current directory and the parent of the working directory 
 task[12] => a script that prints the type of a file
+task[13] => create a symblic link
