@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "You can't play games in terminal"
+telnet towel.blinkenlights.nl
