@@ -11,3 +11,4 @@ task[9] => a script that changes permissions to a file like that "-rwxr-x-wx"
 task[10] => a script that sets the mode of the file 'hello' the same as 'olleh''s mode
 task[11] => a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 task[12] => a script that creates a directory with permissions 751
+task[13] => a script that changes the group owner of a file
