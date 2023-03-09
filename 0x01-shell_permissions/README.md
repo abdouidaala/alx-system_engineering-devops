@@ -6,3 +6,4 @@ task[4] => a script that creates an empty file
 task[5] => a script that adds execute permission to the owner of a file
 task[6] => a script that adds execute permission to the owner and the group owner, and read permission to other users, to a file
 task[7] => a script that adds execution permission to the owner, the group owner and the other users, to a file
+task[8] => a script that sets all permissions only to other users
