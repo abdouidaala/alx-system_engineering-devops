@@ -13,3 +13,4 @@ task[11] => a script that lists all files in the current directory and the paren
 task[12] => a script that prints the type of a file
 task[13] => create a symblic link
 task[14] => a script to copy all html files to the parent directory
+task[15] => a script to move all files begins with uppercase to another directory
