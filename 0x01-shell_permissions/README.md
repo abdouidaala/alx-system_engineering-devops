@@ -9,3 +9,4 @@ task[7] => a script that adds execution permission to the owner, the group owner
 task[8] => a script that sets all permissions only to other users
 task[9] => a script that changes permissions to a file like that "-rwxr-x-wx"
 task[10] => a script that sets the mode of the file 'hello' the same as 'olleh''s mode
+task[11] => a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
