@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 ./icata >> ./icata
+cat ./icata | tail -1 >> ./icata
