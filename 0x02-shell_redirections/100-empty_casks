@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -print -empty -type d,f
+find . -empty -type d -and -type f
