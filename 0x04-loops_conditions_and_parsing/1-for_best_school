@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
-index=1
-while [ $index -le 10 ]
+for _ in {1..10}
 do
     echo "Best School"
-    index=$(( index + 1 ))
 done
