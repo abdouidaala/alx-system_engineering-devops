@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+files=( * )
+for file in "${files[@]}"
+do
+    echo "$file"
+done
